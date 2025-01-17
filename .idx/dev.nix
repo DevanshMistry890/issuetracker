@@ -12,7 +12,6 @@
       web = {
         command = [
           "npm"
-          "run"
           "start"
         ];
         env = {
