@@ -1,4 +1,3 @@
-// Suggested code may be subject to a license. Learn more: ~LicenseLog:3177241057.
 import React from 'react';
 
 const AddIssueForm = () => {
