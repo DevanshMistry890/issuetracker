@@ -3,7 +3,7 @@ import './index.css';
 import IssueTable from './components/IssueTable';
 import AddIssueForm from './components/AddIssueForm';
 import FilterIssues from './components/FilterIssues';
-import CounterApp from './components/counter';
+import CounterApp from './components/counter2';
 
 function App() {
   return (
