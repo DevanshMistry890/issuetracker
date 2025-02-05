@@ -7,13 +7,13 @@ const AddIssueForm = () => {
         Add New Issue
       </h2>
       <form>
-        <div class="form-group">
+        <div className="form-group">
             <label htmlFor='title' className='mb-3'>Title</label>
             <div className="input-group mb-4">
             <input type='text' id='title' name='title' className="form-control"/>
             </div>
         </div>
-        <div class="form-group">
+        <div className="form-group">
           <label htmlFor="status" className='mb-3'>Status:</label>
           <div className='input-group mb-2'>
           <select id="status" name="status" className="form-control">
